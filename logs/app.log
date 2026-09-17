@@ -1,0 +1,1407 @@
+{"level":40,"time":1789647889765,"pid":12052,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789647890086,"pid":12052,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":40,"time":1789647934255,"pid":2328,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789647934431,"pid":2328,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":40,"time":1789647937397,"pid":9416,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789647937568,"pid":9416,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":40,"time":1789647939845,"pid":11052,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789647940025,"pid":11052,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":40,"time":1789647942227,"pid":22640,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789647942402,"pid":22640,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":40,"time":1789647944548,"pid":18304,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789647944728,"pid":18304,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":40,"time":1789647991706,"pid":8408,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789647991899,"pid":8408,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":30,"time":1789647993317,"pid":8408,"hostname":"oceanappspc-1","msg":"WhatsApp connected successfully ✅"}
+{"level":30,"time":1789647993344,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 05:56 pm IST"}
+{"level":30,"time":1789647993681,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789647993681,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 eligible — new ticket"}
+{"level":30,"time":1789647994377,"pid":8408,"hostname":"oceanappspc-1","id":1,"jid":"919640122807@s.whatsapp.net","msg":"[INSUFFICIENT] ✅ Sent"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789647995889,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789647995899,"pid":8408,"hostname":"oceanappspc-1","id":28,"jid":"919640122807@s.whatsapp.net","msg":"[BUILD_DONE] ✅ Sent"}
+{"level":30,"time":1789647995900,"pid":8408,"hostname":"oceanappspc-1","id":2,"jid":"919640122807@s.whatsapp.net","msg":"[BUILD_DONE] ✅ Sent"}
+{"level":30,"time":1789647997406,"pid":8408,"hostname":"oceanappspc-1","msg":"⏱ Notification polling every 60s"}
+{"level":30,"time":1789648028674,"pid":8408,"hostname":"oceanappspc-1","jid":"238847845781648@lid","phone":"9640122807","text":"Hii","intent":"greeting","msg":"→ Message classified"}
+{"level":30,"time":1789648028674,"pid":8408,"hostname":"oceanappspc-1","phone":"9640122807","msg":"📨 Greeting received"}
+{"level":30,"time":1789648028681,"pid":8408,"hostname":"oceanappspc-1","phone":"9640122807","name":"SAMIREDDI VENKATA RAMANA","rollno":"233B1A4248","msg":"✅ Student found"}
+{"level":30,"time":1789648042100,"pid":8408,"hostname":"oceanappspc-1","jid":"238847845781648@lid","phone":"9640122807","text":"1","intent":"fees","msg":"→ Message classified"}
+{"level":30,"time":1789648042100,"pid":8408,"hostname":"oceanappspc-1","phone":"9640122807","rollno":"233B1A4248","msg":"💰 Fees requested"}
+{"level":30,"time":1789648042123,"pid":8408,"hostname":"oceanappspc-1","count":9,"msg":"Unpaid fees fetched"}
+{"level":30,"time":1789648057417,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 05:57 pm IST"}
+{"level":30,"time":1789648057430,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648057430,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.0h ago — next at 09:56 pm"}
+{"level":30,"time":1789648057430,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 05:57 pm"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.0h ago — next at 09:56 pm"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.0h ago — next at 09:56 pm"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648057440,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648117424,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 05:58 pm IST"}
+{"level":30,"time":1789648117440,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648117441,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.0h ago — next at 09:56 pm"}
+{"level":30,"time":1789648117441,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 05:58 pm"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648117455,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648117456,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.0h ago — next at 09:56 pm"}
+{"level":30,"time":1789648117456,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.0h ago — next at 09:56 pm"}
+{"level":30,"time":1789648117456,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648117456,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648117456,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648117456,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648117456,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648117456,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648117456,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648117456,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648117456,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648117456,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648117456,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648177431,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 05:59 pm IST"}
+{"level":30,"time":1789648177442,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648177442,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648177443,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 05:59 pm"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648177453,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648177454,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648237440,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:00 pm IST"}
+{"level":30,"time":1789648237454,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648237455,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648237455,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:00 pm"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648237467,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648297440,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:01 pm IST"}
+{"level":30,"time":1789648297453,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648297453,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648297453,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:01 pm"}
+{"level":30,"time":1789648297467,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648297468,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648357440,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:02 pm IST"}
+{"level":30,"time":1789648357451,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648357452,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648357452,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:02 pm"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648357462,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648417454,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:03 pm IST"}
+{"level":30,"time":1789648417465,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648417465,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648417465,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:03 pm"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648417475,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648417476,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648417476,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648417476,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648417476,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648417476,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648417476,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648417476,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648417476,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648417476,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648417476,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648417476,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648417476,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648417476,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648477457,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:04 pm IST"}
+{"level":30,"time":1789648477467,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648477467,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648477467,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:04 pm"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648477477,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648477478,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648477478,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.1h ago — next at 09:56 pm"}
+{"level":30,"time":1789648477478,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648477478,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648477478,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648477478,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648477478,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648477478,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648477478,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648477478,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648477478,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648477478,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648477478,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648537469,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:05 pm IST"}
+{"level":30,"time":1789648537485,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648537486,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648537486,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:05 pm"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648537503,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648537504,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648537504,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648537504,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648537504,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648537504,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648537504,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648537504,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648537504,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648537504,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648537504,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648537505,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648537505,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648537505,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648597471,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:06 pm IST"}
+{"level":30,"time":1789648597481,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648597481,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648597481,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:06 pm"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648597490,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648597491,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648597491,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648597491,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648597491,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648597491,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648597491,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648597491,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648597491,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648597491,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648597491,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648597491,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648597491,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648597491,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648657482,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:07 pm IST"}
+{"level":30,"time":1789648657492,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648657493,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648657493,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:07 pm"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648657502,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648717490,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:08 pm IST"}
+{"level":30,"time":1789648717502,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648717503,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648717503,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:08 pm"}
+{"level":30,"time":1789648717510,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648717510,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648717510,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648717510,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648717510,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648717511,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648777496,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:09 pm IST"}
+{"level":30,"time":1789648777510,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648777510,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648777511,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:09 pm"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648777522,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648777523,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648777523,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648777523,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648777523,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648777523,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648777523,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648777523,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648777523,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648777523,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648777523,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648777523,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648777523,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648777523,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648837498,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:10 pm IST"}
+{"level":30,"time":1789648837511,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648837511,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648837511,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:10 pm"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648837524,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648837525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.2h ago — next at 09:56 pm"}
+{"level":30,"time":1789648837525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648837525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648837525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648837525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648837525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648837525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648837525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648837525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648837525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648837525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648837525,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648897502,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:11 pm IST"}
+{"level":30,"time":1789648897514,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648897514,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789648897515,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:11 pm"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648897525,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648897526,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789648897526,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789648897526,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648897526,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648897526,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648897526,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648897526,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648897526,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648897526,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648897526,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648897526,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648897526,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648897526,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648940257,"pid":8408,"hostname":"oceanappspc-1","jid":"238847845781648@lid","phone":"9640122807","text":"Hii","intent":"greeting","msg":"→ Message classified"}
+{"level":30,"time":1789648940258,"pid":8408,"hostname":"oceanappspc-1","phone":"9640122807","msg":"📨 Greeting received"}
+{"level":30,"time":1789648940262,"pid":8408,"hostname":"oceanappspc-1","phone":"9640122807","name":"SAMIREDDI VENKATA RAMANA","rollno":"233B1A4248","msg":"✅ Student found"}
+{"level":30,"time":1789648957517,"pid":8408,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:12 pm IST"}
+{"level":30,"time":1789648957529,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789648957529,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789648957529,"pid":8408,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:12 pm"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789648957537,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789648957538,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789648957538,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789648957538,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789648957538,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789648957538,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789648957538,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789648957538,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789648957538,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789648957538,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789648957538,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789648957538,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789648957538,"pid":8408,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789648957538,"pid":8408,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789648958541,"pid":8408,"hostname":"oceanappspc-1","jid":"238847845781648@lid","phone":"9640122807","text":"Hii","intent":"greeting","msg":"→ Message classified"}
+{"level":30,"time":1789648958542,"pid":8408,"hostname":"oceanappspc-1","phone":"9640122807","msg":"📨 Greeting received"}
+{"level":30,"time":1789648958545,"pid":8408,"hostname":"oceanappspc-1","phone":"9640122807","name":"SAMIREDDI VENKATA RAMANA","rollno":"233B1A4248","msg":"✅ Student found"}
+{"level":40,"time":1789649012891,"pid":5016,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789649013066,"pid":5016,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":40,"time":1789649032959,"pid":28376,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789649033294,"pid":28376,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":40,"time":1789649035696,"pid":23760,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789649035869,"pid":23760,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":30,"time":1789649037246,"pid":23760,"hostname":"oceanappspc-1","msg":"WhatsApp connected successfully ✅"}
+{"level":30,"time":1789649037273,"pid":23760,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:13 pm IST"}
+{"level":30,"time":1789649037317,"pid":23760,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649037317,"pid":23760,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649037318,"pid":23760,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:13 pm"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649037330,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649037331,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649037331,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649037331,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649037331,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649037331,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649037331,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649037331,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649037331,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649037331,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649037331,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649037331,"pid":23760,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649037331,"pid":23760,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649037331,"pid":23760,"hostname":"oceanappspc-1","msg":"⏱ Notification polling every 60s"}
+{"level":40,"time":1789649038864,"pid":24240,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789649039040,"pid":24240,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":30,"time":1789649040529,"pid":24240,"hostname":"oceanappspc-1","msg":"WhatsApp connected successfully ✅"}
+{"level":30,"time":1789649040564,"pid":24240,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:14 pm IST"}
+{"level":30,"time":1789649040618,"pid":24240,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649040618,"pid":24240,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649040619,"pid":24240,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:14 pm"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649040631,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649040632,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649040632,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649040632,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649040632,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649040632,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649040632,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649040632,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649040632,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649040632,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649040632,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649040632,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649040632,"pid":24240,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649040632,"pid":24240,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649040632,"pid":24240,"hostname":"oceanappspc-1","msg":"⏱ Notification polling every 60s"}
+{"level":40,"time":1789649047256,"pid":23312,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789649047442,"pid":23312,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":30,"time":1789649048992,"pid":23312,"hostname":"oceanappspc-1","msg":"WhatsApp connected successfully ✅"}
+{"level":30,"time":1789649049018,"pid":23312,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:14 pm IST"}
+{"level":30,"time":1789649049057,"pid":23312,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649049057,"pid":23312,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649049058,"pid":23312,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:14 pm"}
+{"level":30,"time":1789649049069,"pid":23312,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649049069,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649049069,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649049069,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649049069,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649049069,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649049069,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649049069,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649049069,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649049069,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649049069,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649049069,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649049070,"pid":23312,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649049071,"pid":23312,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649049071,"pid":23312,"hostname":"oceanappspc-1","msg":"⏱ Notification polling every 60s"}
+{"level":40,"time":1789649052623,"pid":9812,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789649052800,"pid":9812,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":30,"time":1789649054500,"pid":9812,"hostname":"oceanappspc-1","msg":"WhatsApp connected successfully ✅"}
+{"level":30,"time":1789649054527,"pid":9812,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:14 pm IST"}
+{"level":30,"time":1789649054564,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649054564,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649054565,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:14 pm"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649054577,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649054578,"pid":9812,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649054578,"pid":9812,"hostname":"oceanappspc-1","msg":"⏱ Notification polling every 60s"}
+{"level":30,"time":1789649063503,"pid":9812,"hostname":"oceanappspc-1","jid":"238847845781648@lid","phone":"9640122807","text":"2","intent":"results","msg":"→ Message classified"}
+{"level":30,"time":1789649063503,"pid":9812,"hostname":"oceanappspc-1","phone":"9640122807","msg":"No active session — asking to say Hi first"}
+{"level":30,"time":1789649068095,"pid":9812,"hostname":"oceanappspc-1","jid":"238847845781648@lid","phone":"9640122807","text":"Hii","intent":"greeting","msg":"→ Message classified"}
+{"level":30,"time":1789649068095,"pid":9812,"hostname":"oceanappspc-1","phone":"9640122807","msg":"📨 Greeting received"}
+{"level":30,"time":1789649068103,"pid":9812,"hostname":"oceanappspc-1","phone":"9640122807","name":"SAMIREDDI VENKATA RAMANA","rollno":"233B1A4248","msg":"✅ Student found"}
+{"level":30,"time":1789649072243,"pid":9812,"hostname":"oceanappspc-1","jid":"238847845781648@lid","phone":"9640122807","text":"2","intent":"results","msg":"→ Message classified"}
+{"level":30,"time":1789649114589,"pid":9812,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:15 pm IST"}
+{"level":30,"time":1789649114601,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649114601,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649114601,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:15 pm"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649114612,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649114613,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649114613,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649114613,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649114613,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649114613,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649114613,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649114613,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649114613,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649114613,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649114613,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649114613,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649114613,"pid":9812,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649174589,"pid":9812,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:16 pm IST"}
+{"level":30,"time":1789649174602,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649174602,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649174602,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:16 pm"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649174614,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649174615,"pid":9812,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649234603,"pid":9812,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:17 pm IST"}
+{"level":30,"time":1789649234615,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649234616,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649234616,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:17 pm"}
+{"level":30,"time":1789649234627,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.3h ago — next at 09:56 pm"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649234628,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649234629,"pid":9812,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649294610,"pid":9812,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:18 pm IST"}
+{"level":30,"time":1789649294622,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649294622,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649294622,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:18 pm"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649294632,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649294633,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649294633,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649294633,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649294633,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649294633,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649294633,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649294633,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649294633,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649294633,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649294633,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649294633,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649294633,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649294633,"pid":9812,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649354614,"pid":9812,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:19 pm IST"}
+{"level":30,"time":1789649354626,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649354627,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649354627,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:19 pm"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649354638,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649354639,"pid":9812,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649414628,"pid":9812,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:20 pm IST"}
+{"level":30,"time":1789649414640,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649414640,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649414640,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:20 pm"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649414650,"pid":9812,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649474633,"pid":9812,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:21 pm IST"}
+{"level":30,"time":1789649474645,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649474645,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649474645,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:21 pm"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649474656,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649474657,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649474657,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649474657,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649474657,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649474657,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649474657,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649474657,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649474657,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649474657,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649474657,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649474657,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649474657,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649474657,"pid":9812,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649534643,"pid":9812,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:22 pm IST"}
+{"level":30,"time":1789649534656,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649534657,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649534658,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:22 pm"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649534670,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649534671,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649534671,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649534671,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649534671,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649534671,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649534671,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649534671,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649534671,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649534671,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649534671,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649534671,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649534671,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649534672,"pid":9812,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649594650,"pid":9812,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:23 pm IST"}
+{"level":30,"time":1789649594662,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649594663,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649594663,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:23 pm"}
+{"level":30,"time":1789649594671,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649594671,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649594672,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649594673,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.4h ago — next at 09:56 pm"}
+{"level":30,"time":1789649594673,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649594673,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649594673,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649594673,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649594673,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649594673,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649594673,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649594673,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649594673,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649594673,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649594673,"pid":9812,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649654665,"pid":9812,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:24 pm IST"}
+{"level":30,"time":1789649654675,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649654675,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.5h ago — next at 09:56 pm"}
+{"level":30,"time":1789649654675,"pid":9812,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:24 pm"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649654684,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649654685,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.5h ago — next at 09:56 pm"}
+{"level":30,"time":1789649654685,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.5h ago — next at 09:56 pm"}
+{"level":30,"time":1789649654685,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649654685,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649654685,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649654685,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649654685,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649654685,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649654685,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649654685,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649654685,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649654685,"pid":9812,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649654685,"pid":9812,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":40,"time":1789649664041,"pid":18276,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789649664227,"pid":18276,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":30,"time":1789649665780,"pid":18276,"hostname":"oceanappspc-1","msg":"WhatsApp connected successfully ✅"}
+{"level":30,"time":1789649665804,"pid":18276,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:24 pm IST"}
+{"level":30,"time":1789649665848,"pid":18276,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649665848,"pid":18276,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 eligible — new ticket"}
+{"level":30,"time":1789649666211,"pid":18276,"hostname":"oceanappspc-1","id":1,"jid":"919640122807@s.whatsapp.net","msg":"[INSUFFICIENT] ✅ Sent"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649667727,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649667728,"pid":18276,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649667741,"pid":18276,"hostname":"oceanappspc-1","id":28,"jid":"919640122807@s.whatsapp.net","msg":"[BUILD_DONE] ✅ Sent"}
+{"level":30,"time":1789649667742,"pid":18276,"hostname":"oceanappspc-1","id":2,"jid":"919640122807@s.whatsapp.net","msg":"[BUILD_DONE] ✅ Sent"}
+{"level":30,"time":1789649669250,"pid":18276,"hostname":"oceanappspc-1","msg":"⏱ Notification polling every 60s"}
+{"level":30,"time":1789649679155,"pid":18276,"hostname":"oceanappspc-1","jid":"238847845781648@lid","phone":"9640122807","text":"Hii","intent":"greeting","msg":"→ Message classified"}
+{"level":30,"time":1789649679155,"pid":18276,"hostname":"oceanappspc-1","phone":"9640122807","msg":"📨 Greeting received"}
+{"level":30,"time":1789649679163,"pid":18276,"hostname":"oceanappspc-1","phone":"9640122807","name":"SAMIREDDI VENKATA RAMANA","rollno":"233B1A4248","msg":"✅ Student found"}
+{"level":30,"time":1789649682854,"pid":18276,"hostname":"oceanappspc-1","jid":"238847845781648@lid","phone":"9640122807","text":"Hii","intent":"greeting","msg":"→ Message classified"}
+{"level":30,"time":1789649682854,"pid":18276,"hostname":"oceanappspc-1","phone":"9640122807","msg":"📨 Greeting received"}
+{"level":30,"time":1789649682856,"pid":18276,"hostname":"oceanappspc-1","phone":"9640122807","name":"SAMIREDDI VENKATA RAMANA","rollno":"233B1A4248","msg":"✅ Student found"}
+{"level":40,"time":1789649711809,"pid":27348,"hostname":"oceanappspc-1","msg":"TEST_MODE=true — time-window checks disabled. Remove in production!"}
+{"level":30,"time":1789649711996,"pid":27348,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":40,"time":1789649769385,"pid":27348,"hostname":"oceanappspc-1","code":515,"msg":"Connection closed. Reconnecting: true"}
+{"level":30,"time":1789649769385,"pid":27348,"hostname":"oceanappspc-1","msg":"Reconnecting in 5s..."}
+{"level":30,"time":1789649774614,"pid":27348,"hostname":"oceanappspc-1","version":[2,3000,1043857760],"msg":"Initialising WhatsApp socket"}
+{"level":30,"time":1789649777132,"pid":27348,"hostname":"oceanappspc-1","msg":"WhatsApp connected successfully ✅"}
+{"level":30,"time":1789649777156,"pid":27348,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:26 pm IST"}
+{"level":30,"time":1789649777193,"pid":27348,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649777193,"pid":27348,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 eligible — new ticket"}
+{"level":30,"time":1789649777876,"pid":27348,"hostname":"oceanappspc-1","id":1,"jid":"919640122807@s.whatsapp.net","msg":"[INSUFFICIENT] ✅ Sent"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649779397,"pid":27348,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649779408,"pid":27348,"hostname":"oceanappspc-1","id":28,"jid":"919640122807@s.whatsapp.net","msg":"[BUILD_DONE] ✅ Sent"}
+{"level":30,"time":1789649779409,"pid":27348,"hostname":"oceanappspc-1","id":2,"jid":"919640122807@s.whatsapp.net","msg":"[BUILD_DONE] ✅ Sent"}
+{"level":30,"time":1789649780913,"pid":27348,"hostname":"oceanappspc-1","msg":"⏱ Notification polling every 60s"}
+{"level":30,"time":1789649840932,"pid":27348,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:27 pm IST"}
+{"level":30,"time":1789649840943,"pid":27348,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649840943,"pid":27348,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.0h ago — next at 10:26 pm"}
+{"level":30,"time":1789649840944,"pid":27348,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:27 pm"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.0h ago — next at 10:26 pm"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.0h ago — next at 10:26 pm"}
+{"level":30,"time":1789649840954,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649840955,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649840955,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649840955,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649840955,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649840955,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649840955,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649840955,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649840955,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649840955,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649840955,"pid":27348,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}
+{"level":30,"time":1789649900948,"pid":27348,"hostname":"oceanappspc-1","msg":"🔔 Notification check at 06:28 pm IST"}
+{"level":30,"time":1789649900959,"pid":27348,"hostname":"oceanappspc-1","msg":"Found 1 insufficient_details ticket(s)"}
+{"level":30,"time":1789649900959,"pid":27348,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] Ticket #1 skipped — sent 0.0h ago — next at 10:26 pm"}
+{"level":30,"time":1789649900959,"pid":27348,"hostname":"oceanappspc-1","msg":"[INSUFFICIENT] No eligible tickets at 06:28 pm"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"Found 32 build_done ticket(s)"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #53 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #48 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #44 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #35 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #17 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #19 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #4 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #3 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #28 skipped — sent 0.0h ago — next at 10:26 pm"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #2 skipped — sent 0.0h ago — next at 10:26 pm"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #54 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #47 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #41 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #40 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #39 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #36 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #32 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #30 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #27 eligible — new ticket"}
+{"level":30,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","msg":"[BUILD_DONE] Ticket #6 eligible — new ticket"}
+{"level":40,"time":1789649900968,"pid":27348,"hostname":"oceanappspc-1","phone":"0","msg":"[BUILD_DONE] Invalid phone — skipping"}

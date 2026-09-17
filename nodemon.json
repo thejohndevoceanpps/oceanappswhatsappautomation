@@ -1,0 +1,5 @@
+﻿{
+  "watch": ["src"],
+  "ignore": ["logs/*", "sent_log.json", "sessionStore/*"],
+  "ext": "js,json"
+}
