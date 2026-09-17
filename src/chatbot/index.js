@@ -1,4 +1,4 @@
-﻿/**
+/**
  * chatbot/index.js - Incoming WhatsApp message router.
  *
  * E2EE "Waiting for this message" fix:
@@ -105,6 +105,10 @@ async function handleIncoming(sock, upsert) {
   if (upsert.type !== 'notify') return;
 
   for (const msg of upsert.messages) {
+    if (msg.key?.id && msg.message) {
+      store.save(msg.key.id, msg.message);
+    }
+
     if (msg.key.fromMe) continue;
 
     const jid = msg.key.remoteJid || '';
