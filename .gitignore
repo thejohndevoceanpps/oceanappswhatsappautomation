@@ -1,3 +1,4 @@
 node_modules/
 sessionStore
 logs/
+sent_log.json
