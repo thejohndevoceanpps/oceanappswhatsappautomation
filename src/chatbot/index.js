@@ -10,6 +10,7 @@
 
 const logger = require('../logger');
 const store  = require('../store');
+const { saveLid }                             = require('../lidStore');
 const { findStudentByPhone, fetchUnpaidFees } = require('../queries');
 const { saveSession, getSession }             = require('./session');
 const {
@@ -54,12 +55,14 @@ function classify(text) {
 }
 
 /**
- * Send a reply quoted to the incoming message.
- * Quoting reuses the existing E2EE session — prevents "Waiting for this message".
+ * Send a reply, quoting the incoming message if provided.
+ * Direct responses quote the trigger to preserve context.
+ * Follow-up menus are sent unquoted with a slight pause so ratchets don't collide.
  * Saves the sent message to the store for getMessage() retry support.
  */
 async function send(sock, jid, text, incomingMsg) {
-  const sent = await sock.sendMessage(jid, { text }, { quoted: incomingMsg });
+  const options = incomingMsg ? { quoted: incomingMsg } : {};
+  const sent = await sock.sendMessage(jid, { text }, options);
   if (sent?.key?.id && sent?.message) store.save(sent.key.id, sent.message);
   return sent;
 }
@@ -80,8 +83,8 @@ async function onGreeting(sock, jid, phone, msg) {
   logger.info({ phone, name: student.studentname, rollno: student.rollno }, '✅ Student found');
 
   await send(sock, jid, buildGreetingMsg(student.studentname), msg);
-  await new Promise(r => setTimeout(r, 800));
-  await send(sock, jid, buildMenuMsg(), msg);
+  await new Promise(r => setTimeout(r, 1200));
+  await send(sock, jid, buildMenuMsg());
 }
 
 async function onFees(sock, jid, phone, session, msg) {
@@ -89,14 +92,14 @@ async function onFees(sock, jid, phone, session, msg) {
   const fees = await fetchUnpaidFees(session.rollno);
   logger.info({ count: fees.length }, 'Unpaid fees fetched');
   await send(sock, jid, buildFeesMsg(session.studentname, fees), msg);
-  await new Promise(r => setTimeout(r, 600));
-  await send(sock, jid, buildMenuMsg(), msg);
+  await new Promise(r => setTimeout(r, 1200));
+  await send(sock, jid, buildMenuMsg());
 }
 
 async function onComingSoon(sock, jid, feature, msg) {
   await send(sock, jid, COMING_SOON_MSG(feature), msg);
-  await new Promise(r => setTimeout(r, 600));
-  await send(sock, jid, buildMenuMsg(), msg);
+  await new Promise(r => setTimeout(r, 1200));
+  await send(sock, jid, buildMenuMsg());
 }
 
 // ─── Main entry ───────────────────────────────────────────────────────────
@@ -124,6 +127,11 @@ async function handleIncoming(sock, upsert) {
     if (!phone) {
       logger.warn({ jid, senderPn: msg.key.senderPn }, 'Could not extract phone — skipping');
       continue;
+    }
+
+    // Save phone -> LID mapping so ticketing notifications can route through the same channel
+    if (jid.endsWith('@lid')) {
+      saveLid(phone, jid);
     }
 
     logger.info({ jid, phone, text, intent }, '→ Message classified');

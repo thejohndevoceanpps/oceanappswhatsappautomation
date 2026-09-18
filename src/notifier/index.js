@@ -1,5 +1,6 @@
-﻿const logger = require('../logger');
+const logger = require('../logger');
 const store  = require('../store');
+const { getLid }                                                          = require('../lidStore');
 const { fetchTicketsByStatus }                                           = require('../queries');
 const { buildInsufficientMsg, buildBuildDoneMsg }                        = require('./builders');
 const { canSend, markSent }                                              = require('./sentLog');
@@ -42,7 +43,8 @@ async function dispatch(sock, tickets, buildMsg, label) {
   }
 
   for (const [phone, personTickets] of groupByPhone(eligible)) {
-    const jid = toJid(phone);
+    const lid = getLid(phone);
+    const jid = lid || toJid(phone);
     if (!jid) { logger.warn({ phone }, `[${label}] Invalid phone — skipping`); continue; }
 
     const text = buildMsg(personTickets);
@@ -51,13 +53,13 @@ async function dispatch(sock, tickets, buildMsg, label) {
       if (sent?.key?.id && sent?.message) store.save(sent.key.id, sent.message);
       for (const t of personTickets) {
         markSent(t.id);
-        logger.info({ id: t.id, jid }, `[${label}] ✅ Sent`);
+        logger.info({ id: t.id, jid, viaLid: !!lid }, `[${label}] ✅ Sent`);
       }
     } catch (err) {
       logger.error({ err, jid }, `[${label}] ❌ Send failed`);
     }
 
-    await new Promise(r => setTimeout(r, 1500));
+    await new Promise(r => setTimeout(r, 2000));
   }
 }
 
@@ -74,6 +76,9 @@ async function runNotifications(sock) {
     logger.info(`Found ${t.length} insufficient_details ticket(s)`);
     await dispatch(sock, t, buildInsufficientMsg, 'INSUFFICIENT');
   } catch (err) { logger.error({ err }, 'Error in insufficient_details run'); }
+
+  // 3-second pause between ticket batches so phones with multiple tickets do not get overwhelmed
+  await new Promise(r => setTimeout(r, 3000));
 
   try {
     const t = await fetchTicketsByStatus('build_done');
