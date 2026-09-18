@@ -52,7 +52,11 @@ async function createBot() {
     msgRetryCounterCache,
     getMessage: async (key) => {
       const id = typeof key === 'string' ? key : key?.id;
-      return id ? store.get(id) : undefined;
+      const msg = id ? store.get(id) : undefined;
+      if (id) {
+        logger.info({ id, found: !!msg }, '🔄 Message retry requested by WhatsApp');
+      }
+      return msg;
     },
   });
 
@@ -89,15 +93,18 @@ async function createBot() {
     if (connection === 'open') {
       logger.info('WhatsApp connected successfully ✅');
 
-      try { await runNotifications(sock); }
-      catch (err) { logger.error({ err }, 'Error in initial notification run'); }
+      // Delay initial notification run by 10s to let connection settle and sync offline messages
+      setTimeout(async () => {
+        try { await runNotifications(sock); }
+        catch (err) { logger.error({ err }, 'Error in initial notification run'); }
+      }, 10_000);
 
       pollingTimer = setInterval(async () => {
         try { await runNotifications(sock); }
         catch (err) { logger.error({ err }, 'Error in scheduled notification run'); }
       }, POLL_INTERVAL_MS);
 
-      logger.info(`⏱ Notification polling every ${POLL_INTERVAL_MS / 1000}s`);
+      logger.info(`⏱ Notification polling every ${POLL_INTERVAL_MS / 1000}s (initial run in 10s)`);
     }
   });
 }

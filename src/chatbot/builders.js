@@ -1,4 +1,4 @@
-﻿const APP_NAME = process.env.APP_NAME || 'OceanApps';
+const APP_NAME = process.env.APP_NAME || 'OceanApps';
 
 function _istHour() {
   const now   = new Date();
@@ -51,8 +51,7 @@ function buildFeesMsg(studentName, fees) {
     const amount = f.amount != null
       ? '₹' + Number(f.amount).toLocaleString('en-IN')
       : '—';
-    const remark = f.remarks ? '\n     _' + f.remarks + '_' : '';
-    return (i + 1) + '. *' + batch + '*\n   Amount : ' + amount + remark;
+    return (i + 1) + ') ```' + batch + '```\n   Amount : *' + amount + '*';
   });
 
   const total    = fees.reduce((s, f) => s + (Number(f.amount) || 0), 0);

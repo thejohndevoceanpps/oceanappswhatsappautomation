@@ -1,4 +1,4 @@
-﻿/**
+/**
  * queries.js - All database queries (notifications + chatbot).
  */
 const pool = require('./db');
@@ -45,7 +45,7 @@ async function findStudentByPhone(phone) {
  */
 async function fetchUnpaidFees(rollno) {
   const [rows] = await pool.execute(
-    `SELECT id, feebatch, amount, remarks, createdon
+    `SELECT id, feebatch, amount, createdon
        FROM tblfeemaster
       WHERE rollno = ?
         AND status = 'notpaid'
